@@ -7016,7 +7016,7 @@ a.close.disabled {
 .bg-fotoupn {
   background:
     linear-gradient(rgba(202, 202, 202, 0.55), rgba(211, 211, 211, 0.55)),
-    url("/dist/assets/img/NwbWxlzANr207pfbVrN9LQ.jpeg") no-repeat center fixed;
+    url("../assets/img/NwbWxlzANr207pfbVrN9LQ.jpeg") no-repeat center fixed;
   background-size: cover;
 }
 
